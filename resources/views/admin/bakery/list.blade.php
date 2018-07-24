@@ -8,12 +8,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>List milk</h1>
+    <h1 style="color: red; font-size: 20px>List milk</h1>
     <ul>
-        <li>
+        <h1 style="color: red; font-size: 40px">
             <a href="/admin/milk/create">Create New</a>
         </li>
-        <li>
+            <h1 style="color: red; font-size: 40px">
             <a href="/admin/milk/list">List milk</a>
         </li>
     </ul>
